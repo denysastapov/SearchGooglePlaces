@@ -19,9 +19,8 @@ The Search Google Places app is a location-based application that allows users t
 ## Installation
 To run the application locally, follow these steps:
 
-Clone the repository
-
-Open the project in Xcode or your preferred iOS development environment.
+- Clone the repository
+- Open the project in Xcode or your preferred iOS development environment.
 
 ## Important Note:
 
